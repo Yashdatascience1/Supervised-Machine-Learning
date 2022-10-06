@@ -13,7 +13,7 @@ html_temp = """
 		</div>"""
 def main():
     stc.html(html_temp)
-    menu = ["Home","Problem Statement","EDA","ML","Insights and Recommendations"]
+    menu = ["Home","EDA","ML"]
     choice = st.sidebar.selectbox("Menu",menu)
     if choice == "Home":
         st.markdown("""
@@ -23,11 +23,9 @@ def main():
 
                         - https://drive.google.com/file/d/1N_9Bg6o_3A_bmvsx6fh6ohJnrmWUNOI4/view
  
-                    #### App contents 
-                    - Problem Statement - Detailed description for the motivation behind solving this problem
+                    #### App contents
                     - EDA -  Exploratory analysis of Data
                     - ML - Predict the CTC to be offered to a new candidate
-                    - Conclusion -  Detailed insights and recommendations as derived from the analysis
 
                         """)
     elif choice == "EDA":
@@ -35,5 +33,5 @@ def main():
     elif choice == "ML":
         run_Cap_ML()
     
-if __name__ == main():
+if __name__ == '__main__':
     main()
