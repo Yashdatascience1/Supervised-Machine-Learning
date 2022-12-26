@@ -25,3 +25,8 @@ This repository contains my work done on creating the machine learning model to 
 Click [this url](https://yashdatascience1-supervised-machine-learning-app-part-32w61f.streamlitapp.com/) to view the web app.
 Code for the project is given [here](https://colab.research.google.com/drive/1eKlJ_lJfEAPpUJY31JBZT-QPA0xupD3u?usp=sharing).
 
+## **Project presentation**
+
+A detailed presentation of the project with insights and recommendations can be found [here](www.google.com)
+
+
