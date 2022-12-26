@@ -27,6 +27,6 @@ Code for the project is given [here](https://colab.research.google.com/drive/1eK
 
 ## **Project presentation**
 
-A detailed presentation of the project with insights and recommendations can be found [here](www.google.com)
+A detailed presentation of the project with insights and recommendations can be found [here](https://docs.google.com/presentation/d/1JloU39BDFHrICez0jn2eSzk4bMX22S0a/edit#slide=id.p1)
 
 
